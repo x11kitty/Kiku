@@ -89,6 +89,6 @@ Created with <span style="color: #9f7aea;">💜</span> for the
 </footer>
 
 <div align="center">
-  <img src="Assets/mp.gif.gif" width="100%" alt="Anime Music Visualizer"/>
+  <img src="Assets/mp.gif" width="100%" alt="Anime Music Visualizer"/>
   <p><i>Resonating with the frequency of the soul... 🎧</i></p>
 </div>
