@@ -62,36 +62,21 @@ chmod +x kiku.sh
 ./kiku.sh
 ```
 
-<div style="
-    background-color: #fff5f5;
-    border-left: 5px solid #fc8181;
-    color: #2d3748;
-    padding: 1.25rem;
-    margin: 2rem 0;
-    border-radius: 4px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-">
-    <div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-        <span style="font-size: 1.2rem; margin-right: 0.75rem;">⚠️</span>
-        <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: #c53030;">Exclusive Mode Active</strong>
-    </div>
-    <p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">
-        While the engine is running, it takes direct control of your audio hardware. 
-        Please note that other applications (such as browser audio or system notifications) will be muted 
-        until the player is exited.
-    </p>
+<div style="background-color: #f3f0ff; border-left: 5px solid #9f7aea; color: #2d3748; padding: 1.25rem; margin: 2rem 0; border-radius: 4px; font-family: sans-serif;">
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="font-size: 1.2rem; margin-right: 0.75rem;">🟪</span>
+<strong style="text-transform: uppercase; letter-spacing: 0.05em; color: #6b46c1;">Exclusive Mode Active</strong>
+</div>
+<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">
+While the engine is running, it takes direct control of your audio hardware.
+Other applications (such as browser audio or system notifications) will be muted until you exit the player.
+</p>
 </div>
 
-<footer style="
-    text-align: center;
-    padding: 2rem 0;
-    border-top: 1px solid #edf2f7;
-    margin-top: 3rem;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-">
-    <p style="color: #718096; font-size: 0.9rem; letter-spacing: 0.02em;">
-        Created with <span style="color: #9f7aea;">&hearts;</span> for the 
-        <span style="font-weight: 600; color: #4a5568;">Audiophile Community</span>.
-    </p>
+<footer style="text-align: center; padding: 2rem 0; border-top: 1px solid #edf2f7; margin-top: 3rem; font-family: sans-serif;">
+<p style="color: #718096; font-size: 0.9rem; letter-spacing: 0.02em;">
+Created with <span style="color: #9f7aea;">💜</span> for the
+<span style="font-weight: 600; color: #4a5568;">Audiophile Community</span>.
+</p>
 </footer>
+EOF
