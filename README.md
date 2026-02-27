@@ -1,5 +1,9 @@
 # 💎 KIKU: Ultimate Hi-Res Engine
 > **Minimalist CLI Music Player for Audiophiles**
+<div align="center">
+  <img src="Assets/miku.png" width="270" style="border-radius: 0px;" alt="Random Anime Character"/>
+  <p><i>"Kiku Player ✨"</i></p>
+</div>
 
 [![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Engine: MPV](https://img.shields.io/badge/Engine-MPV-black.svg?logo=mpv&logoColor=white)](https://mpv.io/)
