@@ -79,4 +79,3 @@ Created with <span style="color: #9f7aea;">💜</span> for the
 <span style="font-weight: 600; color: #4a5568;">Audiophile Community</span>.
 </p>
 </footer>
-EOF
