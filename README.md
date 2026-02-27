@@ -20,7 +20,7 @@ The engine is pre-configured with a professional-grade signal chain:
 * **High-End Resampling**: Implements the `soxr` (SoX) resampler with **28-bit precision**.
 * **Psychoacoustic Dithering**: Uses the **Shibata** noise-shaping method for maximum transparency and silent backgrounds.
 * **Hi-Res Ceiling**: Hard-coded to **192,000Hz** and **32-bit signed (s32)** output to match premium DAC capabilities.
-
+* **Ram-Usage**: Approximately 150MB – 300MB during active playback.
 ---
 
 ## 🕹️ Controls (Hardware API)
