@@ -52,3 +52,17 @@ sudo apt update && sudo apt install mpv libsoxr-dev yt-dlp
 ```bash
 sudo dnf install mpv libsoxr yt-dlp
 ```
+
+**Setup**
+```bash
+#Run 
+git clone https://github.com/x11kitty/Kiku.git
+&& cd kiku &&
+chmod +x kiku.sh
+./kiku.sh
+```
+
+[!CAUTION]
+Exclusive Mode Active: While the engine is running, it takes direct control of your audio hardware. Other applications (like browser audio) will be muted until you exit the player.
+
+Created with 💜 for the Audiophile Community.
