@@ -71,6 +71,10 @@ chmod +x kiku.sh
 While the engine is running, it takes direct control of your audio hardware.
 Other applications (such as browser audio or system notifications) will be muted until you exit the player.
 </p>
+<p>
+  The kiku.sh and play.txt Must be In Same Folder and also You can Add You Favourite Music From Youtube
+  Copy The Link Of Music Video And Add To play.txt in New Line
+</p>
 </div>
 
 <footer style="text-align: center; padding: 2rem 0; border-top: 1px solid #edf2f7; margin-top: 3rem; font-family: sans-serif;">
