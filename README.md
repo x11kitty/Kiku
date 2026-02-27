@@ -19,3 +19,4 @@
 Kiku requires the following packages on Arch Linux:
 ```bash
 sudo pacman -S mpv libsoxr yt-dlp
+```
