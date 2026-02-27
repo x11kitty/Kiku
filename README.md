@@ -81,7 +81,7 @@ Other applications (such as browser audio or system notifications) will be muted
 </p>
 </div>
 
-<footer style="text-align: center; padding: 2rem 0; border-top: 1px solid #edf2f7; margin-top: 3rem; font-family: sans-serif;">
+<footer style="text-align: center; padding: 0rem 0; border-top: 0px solid #edf2f7; margin-top: 3rem; font-family: sans-serif;">
 <p style="color: #718096; font-size: 0.9rem; letter-spacing: 0.02em;">
 Created with <span style="color: #9f7aea;">💜</span> for the
 <span style="font-weight: 600; color: #4a5568;">Audiophile Community</span>.
