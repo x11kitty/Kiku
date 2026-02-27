@@ -64,7 +64,7 @@ chmod +x kiku.sh
 
 <div style="background-color: #f3f0ff; border-left: 5px solid #9f7aea; color: #2d3748; padding: 1.25rem; margin: 2rem 0; border-radius: 4px; font-family: sans-serif;">
 <div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-<span style="font-size: 1.2rem; margin-right: 0.75rem;">🟪</span>
+<span style="font-size: 1.2rem; margin-right: 0.75rem;">⚠️</span>
 <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: #6b46c1;">Exclusive Mode Active</strong>
 </div>
 <p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">
