@@ -87,3 +87,8 @@ Created with <span style="color: #9f7aea;">💜</span> for the
 <span style="font-weight: 600; color: #4a5568;">Audiophile Community</span>.
 </p>
 </footer>
+
+<div align="center">
+  <img src="assets/mp.gif.gif" width="100%" alt="Anime Music Visualizer"/>
+  <p><i>Resonating with the frequency of the soul... 🎧</i></p>
+</div>
