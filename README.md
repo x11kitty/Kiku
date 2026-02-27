@@ -48,7 +48,7 @@ sudo pacman -S mpv libsoxr yt-dlp
 sudo apt update && sudo apt install mpv libsoxr-dev yt-dlp
 ```
 
-**FEDORA/RHEL/CENTOS-(DNF)
+**FEDORA/RHEL/CENTOS-(DNF)**
 ```bash
 sudo dnf install mpv libsoxr yt-dlp
 ```
