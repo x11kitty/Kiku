@@ -11,7 +11,7 @@ fi
 # UI Setup
 clear
 echo -e "\e[1;35m=================================================\e[0m"
-echo -e "\e[1;37m    💎 ULTIMATE HI-RES ENGINE | STUDIO GRADE\e[0m"
+echo -e "\e[1;37m    💎 ULTIMATE HI-RES KIKU MPP | STUDIO GRADE\e[0m"
 echo -e "\e[1;35m=================================================\e[0m"
 echo -e "\e[0;90m  [↑/↓] Track  [←/→] ±10s  [Space] Play/Pause  [Q] Exit\e[0m"
 echo -e "\e[1;35m-------------------------------------------------\e[0m"
