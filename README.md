@@ -76,7 +76,7 @@ While the engine is running, it takes direct control of your audio hardware.
 Other applications (such as browser audio or system notifications) will be muted until you exit the player.
 </p>
 <p>
-  The kiku.sh and play.txt Must be In Same Folder and also You can Add You Favourite Music From Youtube
+  The kiku.sh and play.txt Must be In Same Folder and also You can Add You Favourite Music From Youtube.
   Copy The Link Of Music Video And Add To play.txt in New Line
 </p>
 </div>
